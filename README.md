@@ -7,6 +7,7 @@
 This repository is a template for all the repositories that will be used at the hackathon 2024 part of the symposium.
 
 ## Contributors
+Work was done here: https://github.com/digitharium/humanitarian-identity-access-management-integrations/wiki/Matrix
 * Contributor 1
 * Contributor 2
 * ...
